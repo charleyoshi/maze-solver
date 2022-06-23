@@ -1,6 +1,7 @@
 # Maze Solver
 
-[See blog post](https://charleytsang.io/post_maze.html) <br>
+[Blog post: Single-Agent Search: How Does AI Solve a Maze
+(And Why Picking The Right Algorithm Matters)](https://charleyoshi.com/post_maze.html) <br>
 Solve 5 mazes using different searching algorithms.
 
 ## Description
